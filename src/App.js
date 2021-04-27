@@ -9,7 +9,7 @@ const App = () => {
         <div>
             <header>
                 <Link to="/">
-                    Adopt Me
+                    Adopt Me test
                 </Link>
             </header>
             <Router>
